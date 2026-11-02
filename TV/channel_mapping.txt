@@ -135,6 +135,7 @@ CGTN西班牙语,CGTN西语
 CGTN西班牙语,CGTN西语
 cgtnsp,CGTN西语
 CGTNEspanol,CGTN西语
+CGTNSPANISH,CGTN西语
 cgtnfrench,CGTN法语
 CGTNFrancais,CGTN法语
 CGTN法语,CGTN法语

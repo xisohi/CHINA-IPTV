@@ -139,7 +139,7 @@
     <tr>
         <td>广西</td>
         <td><a href="./Unicast/guangxi/unicom.txt">🔗单播</a></td>
-        <td><a href="./Multicast/guangxi/unicom.txt">🌐暂无</a></td>
+        <td><a href="./Multicast/guangxi/unicom.txt">🛰️组播</a></td>
         <td><a href="./Unicast/guangxi/mobile.txt">🔗单播</a></td>
         <td><a href="./Multicast/guangxi/mobile.txt">🌐暂无</a></td>
         <td><a href="./Unicast/guangxi/telecom.txt">🔗单播</a></td>

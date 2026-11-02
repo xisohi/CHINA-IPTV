@@ -359,7 +359,7 @@ CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
 北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 五星体育,http://101.35.240.114:88/live.php?id=五星体育
-纪实人文,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
+上海纪实人文,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 东南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8

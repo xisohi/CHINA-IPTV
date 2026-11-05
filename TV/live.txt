@@ -45,10 +45,10 @@ CCTV5,http://183.11.239.36:808/hls/93/index.m3u8
 CCTV5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV5,http://101.35.240.114:88/live.php?id=CCTV5
-CCTV5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
 CCTV5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+CCTV5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 CCTV5+,http://101.35.240.114:88/live.php?id=CCTV5p
 CCTV6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
 CCTV6,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8
@@ -73,7 +73,6 @@ CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV8,http://101.35.240.114:88/live.php?id=CCTV8
 CCTV9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
 CCTV9,http://112.46.85.60:8009/hls/509/index.m3u8
-CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV9,http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
 CCTV9,https://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
@@ -93,7 +92,6 @@ CCTV11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV11,http://101.35.240.114:88/live.php?id=CCTV11
 CCTV12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
-CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV12,http://61.136.172.236:9901/tsfile/live/0012_1.m3u8
 CCTV12,http://59.39.89.130:60901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
@@ -172,7 +170,6 @@ CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 重庆卫视,http://101.35.240.114:88/live.php?id=重庆卫视
 东方卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-东方卫视,http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://112.46.85.60:8009/hls/31/index.m3u8
 东方卫视,http://58.57.40.22:9901/tsfile/live/1030_1.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
@@ -183,9 +180,9 @@ CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 甘肃卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
-甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8
 甘肃卫视,http://183.11.239.36:808/hls/119/index.m3u8
 甘肃卫视,http://58.57.40.22:9901/tsfile/live/1056_1.m3u8
+甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8
 甘肃卫视,http://101.35.240.114:88/live.php?id=甘肃卫视
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8
@@ -209,9 +206,9 @@ CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 贵州卫视,http://101.35.240.114:88/live.php?id=贵州卫视
 海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
-海南卫视,http://cssbyd.imwork.net:8082/hls/31/index.m3u8
 海南卫视,http://183.11.239.36:808/hls/124/index.m3u8
 海南卫视,http://58.57.40.22:9901/tsfile/live/1000_1.m3u8
+海南卫视,http://cssbyd.imwork.net:8082/hls/31/index.m3u8
 海南卫视,http://101.35.240.114:88/live.php?id=海南卫视
 河北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8
@@ -251,10 +248,10 @@ CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 湖南卫视,http://101.35.240.114:88/live.php?id=湖南卫视
 湖南卫视,http://101.35.240.114:88/live.php?id=湖南卫视4K
 吉林卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-吉林卫视,http://cssbyd.imwork.net:8082/hls/41/index.m3u8
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://cssbyd.imwork.net:8082/hls/41/index.m3u8
 吉林卫视,http://183.11.239.36:808/hls/10/index.m3u8
 吉林卫视,http://182.150.23.74:808/hls/35/index.m3u8
 吉林卫视,http://101.35.240.114:88/live.php?id=吉林卫视
@@ -283,10 +280,10 @@ CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 辽宁卫视,http://101.35.240.114:88/live.php?id=辽宁卫视
 内蒙古卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8
-内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
 内蒙古卫视,http://222.134.245.16:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://182.150.23.74:808/hls/37/index.m3u8
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8
+内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
 内蒙古卫视,http://101.35.240.114:88/live.php?id=内蒙古卫视
 宁夏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 宁夏卫视,http://cssbyd.imwork.net:8082/hls/45/index.m3u8
@@ -330,8 +327,8 @@ CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 天津卫视,http://101.35.240.114:88/live.php?id=天津卫视
 西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 西藏卫视,http://183.11.239.36:808/hls/64/index.m3u8
+西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 西藏卫视,http://101.35.240.114:88/live.php?id=西藏卫视
 新疆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
@@ -367,7 +364,6 @@ CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 东南卫视,http://101.35.240.114:88/live.php?id=东南卫视
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8

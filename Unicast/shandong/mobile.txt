@@ -53,6 +53,7 @@ CGTN纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 北京卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
 重庆卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
 重庆卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000023/index.m3u8
+重庆卫视4k,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000014/index.m3u8
 东方卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
 东方卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000022/index.m3u8
 东方卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
@@ -66,6 +67,7 @@ CGTN纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 贵州卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
 贵州卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000041/index.m3u8
 贵州卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00004000/index.m3u8
+贵州卫视4k,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000012/index.m3u8
 海南卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
 海南卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000030/index.m3u8
 河北卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
@@ -85,7 +87,9 @@ CGTN纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 江苏卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8
 江西卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
 江西卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000035/index.m3u8
+江西卫视4k,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000015/index.m3u8
 辽宁卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
+辽宁卫视4k,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000013/index.m3u8
 内蒙古卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000398/index.m3u8
 内蒙古卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8
 宁夏卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000395/index.m3u8
@@ -109,6 +113,7 @@ CGTN纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 四川卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000033/index.m3u8
 四川卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
 天津卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
+天津卫视4k,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000016/index.m3u8
 西藏卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000392/index.m3u8
 西藏卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000045/index.m3u8
 新疆卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000393/index.m3u8
